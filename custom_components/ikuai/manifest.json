@@ -1,13 +1,13 @@
 {
   "domain": "ikuai",
   "name": "ikuai",  
-  "codeowners": ["@dscao"],
+  "codeowners": ["@ch3n4y"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/dscao/ikuai",  
+  "documentation": "https://github.com/ch3n4y/ikuai",  
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/dscao/ikuai/issues",
+  "issue_tracker": "https://github.com/ch3n4y/ikuai/issues",
   "requirements": [],
-  "version": "1.2.2"
+  "version": "2.0.0"
 }
